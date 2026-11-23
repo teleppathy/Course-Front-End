@@ -1,5 +1,5 @@
-#Section 2: HTML5 - Text Formatting in HTML 
-##Coding Exercise 1: Text Formatting Exercise
+# Section 2: HTML5 - Text Formatting in HTML 
+## Coding Exercise 1: Text Formatting Exercise
 
 ```<!DOCTYPE html>
 <html lang="en">
