@@ -1,7 +1,7 @@
-Section 2: HTML5 - Text Formatting in HTML 
-Coding Exercise 1: Text Formatting Exercise
+#Section 2: HTML5 - Text Formatting in HTML 
+##Coding Exercise 1: Text Formatting Exercise
 
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -21,6 +21,7 @@ Coding Exercise 1: Text Formatting Exercise
     </blockquote>    
 </body>
 </html>
+```
 
 Section 3: HTML5-HTML Essential
 Coding Exercise 2: HTML Essentials Coding Exercise
